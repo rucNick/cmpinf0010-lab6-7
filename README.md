@@ -17,7 +17,7 @@ Everyone is able to edit and make this program better.
 strenter = input("Please enter a string")
 strenter2 = input("Please enter another string") 
   these two code is asking users to input the to sentences they want to check.
-
+##
 strleng = len(strenter)
 count = 0
   These two codes put sentence into the program and get ready to check the vawels and consonants.
