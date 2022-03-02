@@ -35,30 +35,8 @@ for letter in strenter:
         count = count + 1
     if letter == "y":
         count = count + 1
-    
-
-strleng2 = len(strenter2)
-counta = 0
-for letters in strenter2:
-    if letters == 'a':
-        counta = counta + 1
-    if letters == "e":
-        counta = counta + 1
-    if letters == "i":
-        counta = counta + 1
-    if letters == "o":
-        counta = counta + 1
-    if letters == "u":
-        counta = counta + 1
-    if letters == "y":
-        counta = counta + 1
     These codes are check vawels and consonants one letter by one.
-
-lengaa = strleng - count
-lengab = strleng2 - counta    
     
 print("The number of vawels is", count)
 print("The number of consonants is", lengaa)
-print("The number of vawels is", counta)
-print("The number of consonants is", lengab)
-  These code are output the all the results.
+  These code are output the all the results, count stand  for number of vawels and lengaa stand for number of consonants.
