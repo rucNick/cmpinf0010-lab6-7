@@ -1,4 +1,4 @@
-Contributor Covenant Code of Conduct
+## Contributor Covenant Code of Conduct
 Our Pledge
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -9,8 +9,7 @@ identity and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 Our Standards
-Examples of behavior that contributes to a positive environment for our
-community include:
+### Examples of behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
@@ -20,7 +19,7 @@ and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
 community
 
-Examples of unacceptable behavior include:
+### Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or advances of
 any kind
@@ -31,7 +30,7 @@ without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
 professional setting
 
-Enforcement Responsibilities
+## Enforcement Responsibilities
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
@@ -46,7 +45,7 @@ an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
-Enforcement
+## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 [INSERT CONTACT METHOD].
