@@ -42,4 +42,4 @@ print("The number of vawels is", count)
 print("The number of consonants is", lengaa)
 
 
-These code are output the all the results, count stand  for number of vawels and lengaa stand for number of consonants.
+__These code are output the all the results, count stand  for number of vawels and lengaa stand for number of consonants.
