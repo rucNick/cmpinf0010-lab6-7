@@ -9,6 +9,7 @@ __Group members: Xinge Cai, Yurui Luo, Nick Cao__
 
 
 
-In this program, user can input two strings and it will output how many vawels and consonants in each string.
-111
-111
+In this program, users can input two strings and it will tell users how many vawels and consonants in each string. Vawels include AEIOUY and Consonants include all other letters. We believe this letter is very suitable for primary education.
+
+Everyone is able to edit and make this program better.
+
